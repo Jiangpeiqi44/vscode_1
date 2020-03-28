@@ -1,0 +1,1 @@
+#console conda list
